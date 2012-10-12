@@ -18,6 +18,8 @@ Floating Adsense side bar allows you to add floating ad bar to display floating 
 
 * Provides option to set the floating bar on left or right of your website.
 
+* Note: Use this plugin for ad networks that allow scrolling of ads on webpages in their policies(Google Adsense does not allow scrolling of ads).
+
 = Floating Adsense Bar Options =
 
 * Width - Set the width of the Ad bar.
